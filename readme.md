@@ -2,7 +2,13 @@
 ### Simplifying the DOM for Electron Applications
 #### USE IN THE RENDERER PROCESS ONLY
 
-Basic usage:
+### Installation:
+```markdown
+npm i --save smpldm
+yarn add smpldm
+```
+
+### Basic usage:
 ```javascript
 const {add, b, c, ct, cnp} = require("smpldm");
 
@@ -13,7 +19,7 @@ const App = c("div", {id: "App", className: "AppMain"}, header, testing);
 add(App).to(b("root"));
 ```
 
-#### Syntax:
+#### Basic Documentation:
 ```javascript
 const {
   add, // Add element
