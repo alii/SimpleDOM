@@ -1,0 +1,14 @@
+{
+  "name": "smpldm",
+  "version": "1.0.1",
+  "homepage": "https://github.com/aabbccsmith/SimpleDOM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aabbccsmith/SimpleDOM"
+  },
+  "description": "Simplifying the DOM",
+  "main": "index.js",
+  "author": "Alistair Smith <alistair@aabbccsmith.dev> (https://aabbccsmith.dev)",
+  "license": "MIT",
+  "private": false
+}
