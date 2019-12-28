@@ -1,6 +1,4 @@
 # Simple DOM
-### Simplifying the DOM for Electron Applications
-#### USE IN THE RENDERER PROCESS ONLY
 
 ### Installation:
 ```markdown
